@@ -1,2 +1,2 @@
-# kodluyoruzhtmlbolumsonucal-sma
+# kodluyoruzhtmlbolumsonucalisma
 Kodluyoruz Html Bölüm Sonu Çalışması
